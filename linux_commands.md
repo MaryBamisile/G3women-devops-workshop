@@ -39,3 +39,6 @@ Linux commands I've experimented with:
 10: mv: To rename a file or also used to move files
 
 ![image](https://github.com/user-attachments/assets/dcd9ec72-6523-43d9-b5ef-963f36f8523c)
+
+11. locate: The command is used to locate a file in a Linux system. Similar to the search command in Windows.
+
