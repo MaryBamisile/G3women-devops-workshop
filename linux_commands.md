@@ -11,10 +11,19 @@ Linux commands I've experimented with:
 3. ls -a: This command let you see all the hidden files
    
 ![image](https://github.com/user-attachments/assets/fa97eff5-9b59-4568-95db-acafed8f5273)
-4. mkdir: To create a folder or a directory
+
+4. touch: This command is used to create a file
+ 
+![image](https://github.com/user-attachments/assets/1eb8b9bb-9cef-4f87-b3dc-34bef86a72e9)
+
+5. mkdir: To create a folder or a directory
+
 ![image](https://github.com/user-attachments/assets/4b113f28-ee75-4eab-880c-13a842f16a83)
 
-5. rmdir: To delete an empty directory.
+6. rmdir: To delete an empty directory.
 
 ![image](https://github.com/user-attachments/assets/98a6efae-2541-4e07-be0f-c268f17980ef)
 
+7. rm -r: is is used to delete files and directories
+ 
+![image](https://github.com/user-attachments/assets/5f31bd12-0474-4467-afc8-3700423e7143)
