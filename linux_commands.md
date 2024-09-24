@@ -42,3 +42,5 @@ Linux commands I've experimented with:
 
 11. locate: The command is used to locate a file in a Linux system. Similar to the search command in Windows.
 
+
+
