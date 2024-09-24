@@ -27,3 +27,15 @@ Linux commands I've experimented with:
 7. rm -r: is is used to delete files and directories
  
 ![image](https://github.com/user-attachments/assets/5f31bd12-0474-4467-afc8-3700423e7143)
+
+8. cd: This command is used to go to a directory
+
+![image](https://github.com/user-attachments/assets/dec20882-8b92-476f-a001-3bc11f75241f)
+
+9. cp: To copy files from source to destination
+    
+![image](https://github.com/user-attachments/assets/8336f35d-fd66-4ea1-8639-ca4439872d3f)
+
+10: mv: To rename a file or also used to move files
+
+![image](https://github.com/user-attachments/assets/dcd9ec72-6523-43d9-b5ef-963f36f8523c)
