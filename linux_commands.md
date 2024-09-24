@@ -9,4 +9,5 @@ Linux commands I've experimented with:
 
 
 3. ls -a: This command let you see all the hidden files
+   
 ![image](https://github.com/user-attachments/assets/fa97eff5-9b59-4568-95db-acafed8f5273)
