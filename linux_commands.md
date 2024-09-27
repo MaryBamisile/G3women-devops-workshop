@@ -68,4 +68,5 @@ Linux commands I've experimented with:
 
 16. du: This command is used to know the disk usage of a file in the system. You can check the disk usage for a particular folder or file
 <br>eg, du Documents
+
 ![image](https://github.com/user-attachments/assets/b1847530-c100-4cff-9803-62122194ea0f)
