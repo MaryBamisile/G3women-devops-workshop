@@ -61,5 +61,9 @@ Linux commands I've experimented with:
 ![image](https://github.com/user-attachments/assets/56f5331e-e2da-4d3e-a767-e68a3849d870)
 
 
+15. df: This command is used to see the available disk space in each of the partitions in the system.
+<br>It shows mounted partition and their used/available space in % and in KBs. To show in megabytes, make use of “df -m”.
 
+![image](https://github.com/user-attachments/assets/e3e17994-6861-4965-a80f-90ca2eaad1c0)
 
+16. 
