@@ -70,3 +70,8 @@ Linux commands I've experimented with:
 <br>eg, du Documents
 
 ![image](https://github.com/user-attachments/assets/b1847530-c100-4cff-9803-62122194ea0f)
+
+17. uname: It shows the info about the system Linux distro is running on. Make use of the command “uname -a” to prints most of the information about the system.
+
+![image](https://github.com/user-attachments/assets/4def352d-f790-4dd5-bb77-b8fc0e768068)
+
