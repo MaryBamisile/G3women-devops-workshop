@@ -44,15 +44,21 @@ Linux commands I've experimented with:
     
 ![image](https://github.com/user-attachments/assets/92b0bb56-4085-4f9d-88db-66811ffbc15b)
 
-13. echo: The command helps move some data, usually text into a file. For example, if you want to create a new text file or add to an already made text file
+12. echo: The command helps move some data, usually text into a file. For example, if you want to create a new text file or add to an already made text file
 
 ![image](https://github.com/user-attachments/assets/db50264f-6d9a-4688-bd41-487b9afb2141)
 
-14. cat: The command is used to display the contents of a file.
+13. cat: The command is used to display the contents of a file.
     
 ![image](https://github.com/user-attachments/assets/c1baeab4-259e-46fd-891d-60bff4375e51)
 
 
+14. nano, vi, jed: They are already installed text editors in the Linux command line. The nano command is a good text editor I love using.
+<br>Ctrl+X, then Y (or N for no)
+
+![image](https://github.com/user-attachments/assets/8b5617ab-5095-4f7b-aaef-6c4e16707ab8)
+
+![image](https://github.com/user-attachments/assets/56f5331e-e2da-4d3e-a767-e68a3849d870)
 
 
 
