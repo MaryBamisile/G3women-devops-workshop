@@ -41,12 +41,15 @@ Linux commands I've experimented with:
 ![image](https://github.com/user-attachments/assets/dcd9ec72-6523-43d9-b5ef-963f36f8523c)
 
 11. locate: The command is used to locate a file in a Linux system. Similar to the search command in Windows.
+    
 ![image](https://github.com/user-attachments/assets/92b0bb56-4085-4f9d-88db-66811ffbc15b)
 
-12. echo: The command helps move some data, usually text into a file. For example, if you want to create a new text file or add to an already made text file
+13. echo: The command helps move some data, usually text into a file. For example, if you want to create a new text file or add to an already made text file
+
 ![image](https://github.com/user-attachments/assets/db50264f-6d9a-4688-bd41-487b9afb2141)
 
-13. cat: The command is used to display the contents of a file. 
+14. cat: The command is used to display the contents of a file.
+    
 ![image](https://github.com/user-attachments/assets/c1baeab4-259e-46fd-891d-60bff4375e51)
 
 
