@@ -75,3 +75,6 @@ Linux commands I've experimented with:
 
 ![image](https://github.com/user-attachments/assets/4def352d-f790-4dd5-bb77-b8fc0e768068)
 
+
+![image](https://github.com/user-attachments/assets/d6729cf3-a22d-457c-8d3e-3d2d797e6ccc)
+Picture credit: Owner's details included in the image
